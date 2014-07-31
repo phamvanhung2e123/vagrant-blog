@@ -1,0 +1,4 @@
+vagrant-blog
+============
+
+vagrant-blog
